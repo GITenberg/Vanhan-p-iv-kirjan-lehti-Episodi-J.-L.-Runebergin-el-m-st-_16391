@@ -1,0 +1,36 @@
+_repo: Vanhan-p-iv-kirjan-lehti-Episodi-J.-L.-Runebergin-el-m-st-_16391
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Soderhjelm, Werner
+    alias: Söderhjelm, Werner
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '6672'
+    url: http://www.gutenberg.org/2009/agents/6672
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edelfelt, Berta
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '6671'
+    url: http://www.gutenberg.org/2009/agents/6671
+description: ''
+gutenberg_issued: '2005-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16391'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Runeberg, Johan Ludvig, 1804-1877'
+title: 'Vanhan päiväkirjan lehtiä
+
+  Episodi J. L. Runebergin elämästä'
+url: http://www.gutenberg.org/ebooks/16391
