@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6671'
     url: http://www.gutenberg.org/2009/agents/6671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16391#Vanhan-p-iv-kirjan-lehti-Episodi-J.-L.-Runebergin-el-m-st-
 gutenberg_issued: '2005-07-30'
 gutenberg_type: Text
 identifiers:
